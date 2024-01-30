@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/khoa/catkin_ws/devel_isolated/gps_rviz_plugin/setup.sh

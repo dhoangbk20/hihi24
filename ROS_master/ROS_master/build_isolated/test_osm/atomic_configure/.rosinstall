@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/khoa/catkin_ws/devel_isolated/test_osm/setup.sh

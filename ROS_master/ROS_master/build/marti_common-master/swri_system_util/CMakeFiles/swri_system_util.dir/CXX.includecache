@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/khoa/catkin_ws/src/marti_common-master/swri_system_util/include/swri_system_util/file_util.h
+vector
+-
+boost/filesystem/path.hpp
+-
+boost/filesystem/operations.hpp
+-
+boost/filesystem/fstream.hpp
+-
+
+/home/khoa/catkin_ws/src/marti_common-master/swri_system_util/src/file_util.cpp
+swri_system_util/file_util.h
+-
+string
+-
+boost/regex.hpp
+-
+

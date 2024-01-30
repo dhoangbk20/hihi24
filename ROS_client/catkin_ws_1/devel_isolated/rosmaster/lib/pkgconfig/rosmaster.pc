@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws_1/devel_isolated/rosmaster
+
+Name: rosmaster
+Description: Description of rosmaster
+Version: 1.15.11
+Cflags: 
+Libs: -L/home/pi/catkin_ws_1/devel_isolated/rosmaster/lib 
+Requires: 

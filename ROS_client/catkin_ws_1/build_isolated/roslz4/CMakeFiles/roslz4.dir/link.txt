@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libroslz4.so -o /home/pi/catkin_ws_1/devel_isolated/roslz4/lib/libroslz4.so CMakeFiles/roslz4.dir/src/lz4s.c.o CMakeFiles/roslz4.dir/src/xxhash.c.o -Wl,-rpath,/opt/ros/kinetic/lib: -llz4 /opt/ros/kinetic/lib/libcpp_common.so -lboost_system -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread -lconsole_bridge 

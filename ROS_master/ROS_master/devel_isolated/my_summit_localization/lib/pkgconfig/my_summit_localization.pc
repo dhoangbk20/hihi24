@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/devel_isolated/my_summit_localization
+
+Name: my_summit_localization
+Description: Description of my_summit_localization
+Version: 0.0.0
+Cflags: -I/home/khoa/catkin_ws/devel_isolated/my_summit_localization/include
+Libs: -L${prefix}/lib 
+Requires: rospy

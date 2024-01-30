@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/devel
+
+Name: camera_calibration_parsers
+Description: Description of camera_calibration_parsers
+Version: 1.11.14
+Cflags: -I/home/khoa/catkin_ws/src/image_common-hydro-devel/camera_calibration_parsers/include
+Libs: -L${prefix}/lib -lcamera_calibration_parsers
+Requires: sensor_msgs

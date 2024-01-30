@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/install
+
+Name: swri_geometry_util
+Description: Description of swri_geometry_util
+Version: 2.14.2
+Cflags: -I${prefix}/include -I/usr/include -I/usr/include/opencv
+Libs: -L${prefix}/lib -lswri_geometry_util /usr/lib/x86_64-linux-gnu/libopencv_core.so.3.2.0
+Requires: roscpp tf

@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/devel
+
+Name: swri_console_util
+Description: Description of swri_console_util
+Version: 2.14.2
+Cflags: -I/home/khoa/catkin_ws/src/marti_common-master/swri_console_util/include
+Libs: -L${prefix}/lib -lswri_console_util
+Requires: roscpp

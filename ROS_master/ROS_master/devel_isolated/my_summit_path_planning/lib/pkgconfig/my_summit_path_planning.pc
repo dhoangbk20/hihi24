@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/devel_isolated/my_summit_path_planning
+
+Name: my_summit_path_planning
+Description: Description of my_summit_path_planning
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,9 @@
+(cl:defpackage swri_roscpp-msg
+  (:use )
+  (:export
+   "<TESTTOPICSERVICEREQUEST>"
+   "TESTTOPICSERVICEREQUEST"
+   "<TESTTOPICSERVICERESPONSE>"
+   "TESTTOPICSERVICERESPONSE"
+  ))
+

@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/devel
+
+Name: swri_route_util
+Description: Description of swri_route_util
+Version: 2.14.2
+Cflags: -I/home/khoa/catkin_ws/src/marti_common-master/swri_route_util/include -I/usr/include
+Libs: -L${prefix}/lib -lswri_route_util
+Requires: marti_common_msgs marti_nav_msgs roscpp swri_geometry_util swri_math_util swri_transform_util visualization_msgs

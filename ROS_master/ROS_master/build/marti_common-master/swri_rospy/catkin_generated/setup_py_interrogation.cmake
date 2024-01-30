@@ -1,0 +1,7 @@
+set(swri_rospy_SETUP_PY_SETUP_MODULE "setuptools")
+set(swri_rospy_SETUP_PY_VERSION "2.14.2")
+set(swri_rospy_SETUP_PY_SCRIPTS "")
+set(swri_rospy_SETUP_PY_PACKAGES "swri_rospy")
+set(swri_rospy_SETUP_PY_PACKAGE_DIRS "src/swri_rospy")
+set(swri_rospy_SETUP_PY_MODULES "")
+set(swri_rospy_SETUP_PY_MODULE_DIRS "")

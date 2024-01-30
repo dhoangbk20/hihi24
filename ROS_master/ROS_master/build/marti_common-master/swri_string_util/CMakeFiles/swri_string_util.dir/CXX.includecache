@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/khoa/catkin_ws/src/marti_common-master/swri_string_util/include/swri_string_util/string_util.h
+stdint.h
+-
+string
+-
+
+/home/khoa/catkin_ws/src/marti_common-master/swri_string_util/src/string_util.cpp
+swri_string_util/string_util.h
+-
+cerrno
+-
+cstdlib
+-
+limits
+-
+

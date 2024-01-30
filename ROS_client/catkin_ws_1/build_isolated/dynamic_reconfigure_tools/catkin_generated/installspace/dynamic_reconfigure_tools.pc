@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws_1/install_isolated
+
+Name: dynamic_reconfigure_tools
+Description: Description of dynamic_reconfigure_tools
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/pi/catkin_ws_1/install_isolated/lib 
+Requires: 

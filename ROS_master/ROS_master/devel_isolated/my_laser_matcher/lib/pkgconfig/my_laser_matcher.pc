@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/devel_isolated/my_laser_matcher
+
+Name: my_laser_matcher
+Description: Description of my_laser_matcher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

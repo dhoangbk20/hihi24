@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws_1/install_isolated
+
+Name: rosgraph
+Description: Description of rosgraph
+Version: 1.15.11
+Cflags: 
+Libs: -L/home/pi/catkin_ws_1/install_isolated/lib 
+Requires: 

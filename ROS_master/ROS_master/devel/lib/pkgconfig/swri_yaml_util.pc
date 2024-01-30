@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/devel
+
+Name: swri_yaml_util
+Description: Description of swri_yaml_util
+Version: 2.14.2
+Cflags: -I/home/khoa/catkin_ws/src/marti_common-master/swri_yaml_util/include -I/home/khoa/catkin_ws/devel/include
+Libs: -L${prefix}/lib -lswri_yaml_util -lyaml-cpp
+Requires: 

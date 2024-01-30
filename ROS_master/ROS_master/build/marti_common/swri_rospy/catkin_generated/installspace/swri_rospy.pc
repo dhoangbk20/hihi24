@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/install
+
+Name: swri_rospy
+Description: Description of swri_rospy
+Version: 2.14.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

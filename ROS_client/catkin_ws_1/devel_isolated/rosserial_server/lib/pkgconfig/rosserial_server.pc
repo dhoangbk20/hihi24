@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws_1/devel_isolated/rosserial_server
+
+Name: rosserial_server
+Description: Description of rosserial_server
+Version: 0.9.1
+Cflags: -I/home/pi/catkin_ws_1/src/rosserial/rosserial_server/include
+Libs: -L/home/pi/catkin_ws_1/devel_isolated/rosserial_server/lib -lrosserial_server_lookup
+Requires: roscpp rosserial_msgs std_msgs topic_tools

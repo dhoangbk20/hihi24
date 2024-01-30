@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pi/catkin_ws_1/devel_isolated/pcl_msgs/setup.sh

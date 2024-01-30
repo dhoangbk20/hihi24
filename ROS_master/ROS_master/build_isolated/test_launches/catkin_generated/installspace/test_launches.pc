@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/install_isolated
+
+Name: test_launches
+Description: Description of test_launches
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

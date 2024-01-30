@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/devel
+
+Name: swri_serial_util
+Description: Description of swri_serial_util
+Version: 2.14.2
+Cflags: -I/home/khoa/catkin_ws/src/marti_common-master/swri_serial_util/include -I/usr/include
+Libs: -L${prefix}/lib -lswri_serial_util
+Requires: 

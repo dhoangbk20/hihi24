@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws_1/devel_isolated/teleop_twist_joy
+
+Name: teleop_twist_joy
+Description: Description of teleop_twist_joy
+Version: 0.1.3
+Cflags: -I/home/pi/catkin_ws_1/src/teleop_twist_joy/include
+Libs: -L/home/pi/catkin_ws_1/devel_isolated/teleop_twist_joy/lib -lteleop_twist_joy
+Requires: geometry_msgs roscpp sensor_msgs

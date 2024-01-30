@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/khoa/catkin_ws/devel/include/swri_yaml_util/version.h
+
+/home/khoa/catkin_ws/src/marti_common-master/swri_yaml_util/include/swri_yaml_util/yaml_util.h
+stdint.h
+-
+memory
+-
+yaml-cpp/yaml.h
+-
+swri_yaml_util/version.h
+-
+
+/home/khoa/catkin_ws/src/marti_common-master/swri_yaml_util/src/yaml_util.cpp
+swri_yaml_util/yaml_util.h
+-
+stdio.h
+-
+sstream
+-
+iomanip
+-
+fstream
+-
+

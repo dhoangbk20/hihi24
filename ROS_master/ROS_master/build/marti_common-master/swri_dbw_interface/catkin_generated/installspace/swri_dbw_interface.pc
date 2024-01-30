@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/install
+
+Name: swri_dbw_interface
+Description: Description of swri_dbw_interface
+Version: 2.14.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

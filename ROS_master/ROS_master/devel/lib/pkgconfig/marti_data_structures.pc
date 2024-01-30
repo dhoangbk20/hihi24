@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/devel
+
+Name: marti_data_structures
+Description: Description of marti_data_structures
+Version: 2.14.2
+Cflags: -I/home/khoa/catkin_ws/src/marti_common-master/marti_data_structures/include
+Libs: -L${prefix}/lib 
+Requires: 

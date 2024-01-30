@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/devel_isolated/gps_rviz_plugin
+
+Name: gps_rviz_plugin
+Description: Description of gps_rviz_plugin
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

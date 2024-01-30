@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws_1/install_isolated
+
+Name: dynamic_reconfigure_example
+Description: Description of dynamic_reconfigure_example
+Version: 0.0.1
+Cflags: -I/home/pi/catkin_ws_1/install_isolated/include
+Libs: -L/home/pi/catkin_ws_1/install_isolated/lib -ldynamic_reconfigure_example
+Requires: nodelet roscpp std_msgs

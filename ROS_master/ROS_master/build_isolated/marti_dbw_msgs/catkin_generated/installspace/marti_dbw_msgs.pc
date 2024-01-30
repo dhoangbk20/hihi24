@@ -1,0 +1,8 @@
+prefix=/home/khoa/catkin_ws/install_isolated
+
+Name: marti_dbw_msgs
+Description: Description of marti_dbw_msgs
+Version: 0.10.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

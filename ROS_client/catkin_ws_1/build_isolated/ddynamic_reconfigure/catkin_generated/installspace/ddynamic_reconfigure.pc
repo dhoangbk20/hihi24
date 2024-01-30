@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws_1/install_isolated
+
+Name: ddynamic_reconfigure
+Description: Description of ddynamic_reconfigure
+Version: 0.4.1
+Cflags: -I/home/pi/catkin_ws_1/install_isolated/include
+Libs: -L/home/pi/catkin_ws_1/install_isolated/lib -lddynamic_reconfigure
+Requires: roscpp dynamic_reconfigure

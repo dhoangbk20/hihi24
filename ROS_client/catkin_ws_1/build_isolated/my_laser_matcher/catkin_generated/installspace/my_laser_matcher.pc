@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws_1/install_isolated
+
+Name: my_laser_matcher
+Description: Description of my_laser_matcher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/catkin_ws_1/install_isolated/lib 
+Requires: 

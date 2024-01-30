@@ -1,0 +1,15 @@
+\subsubsection usage Usage
+\verbatim
+<node name="dynamic_reconfigure_example" pkg="dynamic_reconfigure_example" type="dynamic_reconfigure_example">
+  <param name="double_param" type="double" value="20.0" />
+  <param name="int_param" type="int" value="50" />
+  <param name="bool_param" type="bool" value="False" />
+  <param name="str_param" type="str" value="test" />
+  <param name="extra_long_test_name_str" type="str" value="test" />
+  <param name="enum_param" type="int" value="1" />
+  <param name="small_double" type="double" value="0.001" />
+  <param name="big_double" type="double" value="500000000.0" />
+  <param name="small_double2" type="double" value="0.001" />
+</node>
+\endverbatim
+

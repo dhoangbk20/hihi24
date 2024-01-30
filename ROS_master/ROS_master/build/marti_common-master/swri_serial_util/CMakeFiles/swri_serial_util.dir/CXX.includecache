@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/khoa/catkin_ws/src/marti_common-master/swri_serial_util/include/swri_serial_util/serial_port.h
+stdint.h
+-
+string
+-
+vector
+-
+
+/home/khoa/catkin_ws/src/marti_common-master/swri_serial_util/src/serial_port.cpp
+swri_serial_util/serial_port.h
+-
+errno.h
+-
+sys/ioctl.h
+-
+fcntl.h
+-
+unistd.h
+-
+poll.h
+-
+termios.h
+-
+linux/serial.h
+-
+cstring
+-
+boost/lexical_cast.hpp
+-
+

@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws_1/install_isolated
+
+Name: test_roslib_comm
+Description: Description of test_roslib_comm
+Version: 1.15.11
+Cflags: -I/home/pi/catkin_ws_1/install_isolated/include
+Libs: -L/home/pi/catkin_ws_1/install_isolated/lib 
+Requires: 
